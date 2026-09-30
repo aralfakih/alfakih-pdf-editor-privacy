@@ -1,6 +1,6 @@
 Privacy Policy
 
-Effective date: 30 August 2026
+Effective date: 30 September 2026
 
 Al-Fakih Engineering Applications designed Al-Fakih PDF Editor to process
 documents privately on the user's device.
