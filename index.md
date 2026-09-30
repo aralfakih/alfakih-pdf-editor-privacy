@@ -9,7 +9,7 @@ PDFs are opened only when the user explicitly selects them. PDF editing, page
 organization, OCR, and page-image export occur locally. The app does not upload
 documents to the developer or a conversion service.
 
-PDF OCR uses bundled English and Arabic Tesseract language data. Image text
+PDF OCR uses bundled English Tesseract language data. Image text
 recognition uses Google ML Kit's on-device text-recognition components.
 Document images and recognized text are processed on the device.
 
